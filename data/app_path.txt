@@ -1,0 +1,2 @@
+seewo:"D:\Program Files (x86)\Seewo\EasiNote5\swenlauncher\swenlauncher.exe"
+wechat:"D:\Program Files (x86)\Tencent\WeChat\WeChat.exe"
